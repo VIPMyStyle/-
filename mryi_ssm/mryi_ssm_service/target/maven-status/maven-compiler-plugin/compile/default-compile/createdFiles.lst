@@ -1,0 +1,8 @@
+com\mryi\ssm\service\OrdersService.class
+com\mryi\ssm\service\Impl\OrdersServiceImpl.class
+com\mryi\ssm\service\UserService.class
+com\mryi\ssm\service\Impl\ProductServiceImpl.class
+com\mryi\ssm\service\ProductService.class
+com\mryi\ssm\service\RoleService.class
+com\mryi\ssm\service\Impl\RoleServiceImpl.class
+com\mryi\ssm\service\Impl\UserServiceImpl.class

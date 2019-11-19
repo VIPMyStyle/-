@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mryi_ssm.iml" filepath="$PROJECT_DIR$/mryi_ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mryi_ssm_dao/mryi_ssm_dao.iml" filepath="$PROJECT_DIR$/mryi_ssm_dao/mryi_ssm_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mryi_ssm_domain/mryi_ssm_domain.iml" filepath="$PROJECT_DIR$/mryi_ssm_domain/mryi_ssm_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mryi_ssm_service/mryi_ssm_service.iml" filepath="$PROJECT_DIR$/mryi_ssm_service/mryi_ssm_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mryi_ssm_web/mryi_ssm_web.iml" filepath="$PROJECT_DIR$/mryi_ssm_web/mryi_ssm_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myryi_ssm_utils/myryi_ssm_utils.iml" filepath="$PROJECT_DIR$/myryi_ssm_utils/myryi_ssm_utils.iml" />
+    </modules>
+  </component>
+</project>

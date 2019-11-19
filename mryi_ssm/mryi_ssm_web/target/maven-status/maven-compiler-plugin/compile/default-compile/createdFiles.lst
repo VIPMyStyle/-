@@ -1,0 +1,4 @@
+com\mryi\ssm\controller\ProductController.class
+com\mryi\ssm\controller\RoleController.class
+com\mryi\ssm\controller\OrdersController.class
+com\mryi\ssm\controller\UserController.class

@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="mryi_ssm_web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee03a823-39a4-43df-a8dd-9a84f344e76f" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/target/" />
+    <ignored path="$PROJECT_DIR$/mryi_ssm/myryi_ssm_utils/target/" />
+    <ignored path="$PROJECT_DIR$/mryi_ssm/mryi_ssm_dao/target/" />
+    <ignored path="$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/target/" />
+    <ignored path="$PROJECT_DIR$/mryi_ssm/target/" />
+    <ignored path="$PROJECT_DIR$/mryi_ssm/mryi_ssm_domain/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SVN" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/syslog-list.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3220">
+              <caret line="115" column="18" selection-start-line="115" selection-start-column="18" selection-end-line="115" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/java/com/mryi/ssm/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/product-list.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13216">
+              <caret line="472" column="4" selection-start-line="472" selection-start-column="4" selection-end-line="483" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/java/com/mryi/ssm/controller/SysLogController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="728">
+              <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_dao/src/main/java/com/mryi/ssm/dao/OrdersDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1400">
+              <caret line="55" column="41" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/user-list.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3444">
+              <caret line="123" column="51" selection-start-line="123" selection-start-column="51" selection-end-line="129" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/orders-list.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12880">
+              <caret line="460" column="52" selection-start-line="460" selection-start-column="52" selection-end-line="460" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/SysLogService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/Impl/SysLogServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/java/com/mryi/ssm/controller/ProductController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1148">
+              <caret line="50" column="2" selection-start-line="50" selection-start-column="2" selection-end-line="55" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mysql</find>
+      <find>servlet</find>
+      <find>servlet-api</find>
+      <find>ojdbc</find>
+      <find>user2-160x160</find>
+      <find>新建</find>
+      <find>oj</find>
+      <find>下单时间</find>
+      <find>page</find>
+      <find>详情</find>
+      <find>证件类型</find>
+      <find>研究院研发部.</find>
+      <find>研究院研发部</find>
+      <find>http://www.itcast.cn</find>
+      <find>数据 - AdminLTE2定制版</find>
+      <find>ITCAST - AdminLTE2定制版</find>
+      <find>xml</find>
+      <find>listeners</find>
+      <find>listener</find>
+      <find>security</find>
+      <find>jsr</find>
+      <find>add</find>
+      <find>刷新</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>https://weibo.com/yijiecaomin900316</replace>
+      <replace>酷酷的易先生</replace>
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/java/com/mryi/ssm/controller/SysLogController.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_dao/src/main/java/com/mryi/ssm/dao/PermissionDao.java" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_dao/src/main/java/com/mryi/ssm/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_dao/src/main/java/com/mryi/ssm/dao/RoleDao.java" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/header.jsp" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/resources/spring-security.xml" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/java/com/mryi/ssm/controller/LogAop.java" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/aside.jsp" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/java/com/mryi/ssm/controller/RoleController.java" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/Impl/RoleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/RoleService.java" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/Impl/PermisssionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/PermissionService.java" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/java/com/mryi/ssm/controller/PermissionController.java" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_dao/src/main/java/com/mryi/ssm/dao/ProductDao.java" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/java/com/mryi/ssm/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/ProductService.java" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/Impl/ProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_domain/src/main/java/com/mryi/ssm/SysLog.java" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/UserService.java" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/Impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/login.jsp" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/failer.jsp" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/403.jsp" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/user-role-add.jsp" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/role-permission-add.jsp" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/role-add.jsp" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/orders-show.jsp" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/permission-show.jsp" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/user-show.jsp" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/user-list.jsp" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/role-list.jsp" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/permission-list.jsp" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/product-list.jsp" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/orders-list.jsp" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/OrdersService.java" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/Impl/OrdersServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/java/com/mryi/ssm/controller/OrdersController.java" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/SysLogService.java" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/Impl/SysLogServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_dao/src/main/java/com/mryi/ssm/dao/SysLogDao.java" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/java/com/mryi/ssm/controller/SysLogController.java" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_dao/src/main/java/com/mryi/ssm/dao/OrdersDao.java" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/orders-page-list.jsp" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/syslog-list.jsp" />
+        <option value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/java/com/mryi/ssm/controller/UserController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Software/maven/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\Software\maven\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mryi_ssm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mryi_ssm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mryi_ssm_web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mryi_ssm_web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1085" />
+    <option name="y" value="105" />
+    <option name="width" value="980" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectId" id="1SB0ASBCCCwMlep1MhEXEE0sAZZ" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.36040217" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_dao/src/main/java/com/mryi/ssm/dao/MembersDao.java" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/mryi_ssm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Cache\IDEA_4\SVN\mryi_ssm\mryi_ssm_web\src\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mryi.ssm.dao" />
+      <recent name="com.mryi.ssm" />
+      <recent name="com.itmryi.ssm" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Cache\IDEA_4\SVN\mryi_ssm\mryi_ssm_web\target\classes" />
+      <recent name="D:\Cache\IDEA_4\SVN\mryi_ssm\mryi_ssm_web\src\main\webapp\pages" />
+      <recent name="D:\Cache\IDEA_4\SVN\mryi_ssm\mryi_ssm_web\src\main\webapp" />
+      <recent name="D:\Cache\IDEA_4\SVN\mryi_ssm\mryi_ssm_web\src\resources" />
+      <recent name="D:\Cache\IDEA_4\SVN\mryi_ssm\mryi_ssm_web\src\main\webapp\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.ssm-mryi">
+    <configuration name="mryi-ssm-web" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/mryi_ssm/mryi_ssm_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="ssm-mryi" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.73" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="mryi_ssm_web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_SVN_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="13834" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="mryi_ssm_web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.mryi-ssm-web" />
+      <item itemvalue="Tomcat Server.ssm-mryi" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee03a823-39a4-43df-a8dd-9a84f344e76f" name="Default Changelist" comment="" />
+      <created>1569662728585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569662728585</updated>
+      <workItem from="1569662731520" duration="506000" />
+      <workItem from="1569744709509" duration="23000" />
+      <workItem from="1569820832579" duration="6338000" />
+      <workItem from="1569997771162" duration="7501000" />
+      <workItem from="1570514438899" duration="598000" />
+      <workItem from="1570515104137" duration="12065000" />
+      <workItem from="1570543435443" duration="2452000" />
+      <workItem from="1570591349779" duration="3284000" />
+      <workItem from="1570594887759" duration="20000" />
+      <workItem from="1570594942598" duration="283000" />
+      <workItem from="1570595249946" duration="2545000" />
+      <workItem from="1570600687900" duration="9375000" />
+      <workItem from="1570610444875" duration="3005000" />
+      <workItem from="1570673212203" duration="6896000" />
+      <workItem from="1570684531858" duration="516000" />
+      <workItem from="1570685070916" duration="10397000" />
+      <workItem from="1570695787210" duration="2154000" />
+      <workItem from="1570697966466" duration="2888000" />
+      <workItem from="1570760567176" duration="2691000" />
+      <workItem from="1570763293962" duration="586000" />
+      <workItem from="1570763901634" duration="501000" />
+      <workItem from="1570764433541" duration="1824000" />
+      <workItem from="1570766283419" duration="378000" />
+      <workItem from="1570766681596" duration="754000" />
+      <workItem from="1570767458596" duration="542000" />
+      <workItem from="1570768025624" duration="1261000" />
+      <workItem from="1570771954210" duration="597000" />
+      <workItem from="1570773638428" duration="19474000" />
+      <workItem from="1570865554167" duration="6915000" />
+      <workItem from="1570872504037" duration="705000" />
+      <workItem from="1570876283303" duration="24000" />
+      <workItem from="1570876317507" duration="7988000" />
+      <workItem from="1571021425103" duration="22000" />
+      <workItem from="1571021563485" duration="62000" />
+      <workItem from="1571021715184" duration="244000" />
+      <workItem from="1571021986299" duration="4949000" />
+      <workItem from="1571033074255" duration="4831000" />
+      <workItem from="1571038884757" duration="822000" />
+      <workItem from="1571040761400" duration="2807000" />
+      <workItem from="1571049270313" duration="598000" />
+      <workItem from="1571108788936" duration="4535000" />
+      <workItem from="1571113349136" duration="1867000" />
+      <workItem from="1571118539768" duration="8942000" />
+      <workItem from="1571196628435" duration="210000" />
+      <workItem from="1571197549267" duration="3526000" />
+      <workItem from="1571206011666" duration="11430000" />
+      <workItem from="1571292012764" duration="5200000" />
+      <workItem from="1571303493336" duration="5492000" />
+      <workItem from="1571372102438" duration="3688000" />
+      <workItem from="1571542789423" duration="2621000" />
+      <workItem from="1571816081569" duration="97000" />
+      <workItem from="1573291115389" duration="3000" />
+      <workItem from="1574086045938" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="61627000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Web" order="0" side_tool="true" />
+      <window_info active="true" id="Project" order="1" visible="true" weight="0.32951483" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Run" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Debug" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Application Servers" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Ant Build" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_dao/src/main/java/com/mryi/ssm/dao/ProductDao.java</url>
+          <line>26</line>
+          <properties class="com.mryi.ssm.dao.ProductDao" method="save" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/java/com/mryi/ssm/controller/ProductController.java</url>
+          <line>20</line>
+          <properties class="com.mryi.ssm.controller.ProductController" method="findAll" />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/java/com/mryi/ssm/controller/ProductController.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_dao/src/main/java/com/mryi/ssm/dao/RoleDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="38" column="58" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/resources/spring-security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="24" column="90" selection-start-line="24" selection-start-column="90" selection-end-line="24" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4368">
+          <caret line="156" column="39" selection-start-line="156" selection-start-column="31" selection-end-line="156" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="18" column="63" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/java/com/mryi/ssm/controller/LogAop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-283">
+          <caret line="48" column="59" selection-start-line="48" selection-start-column="59" selection-end-line="48" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-371">
+          <caret line="24" column="108" selection-start-line="24" selection-start-column="108" selection-end-line="24" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/RoleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/Impl/RoleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/java/com/mryi/ssm/controller/RoleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/PermissionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/Impl/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/Impl/PermisssionServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="18" column="51" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_domain/src/main/java/com/mryi/ssm/Orders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="69" column="3" lean-forward="true" selection-start-line="69" selection-start-column="3" selection-end-line="71" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_domain/src/main/java/com/mryi/ssm/SysLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/Impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="77" column="36" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1593">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/role-permission-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4200">
+          <caret line="150" column="42" selection-start-line="150" selection-start-column="42" selection-end-line="150" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/role-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3752">
+          <caret line="134" column="42" selection-start-line="134" selection-start-column="42" selection-end-line="134" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/failer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/user-role-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4200">
+          <caret line="150" column="42" selection-start-line="150" selection-start-column="42" selection-end-line="150" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/403.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3696" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/aside.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/orders-show.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7501">
+          <caret line="91" column="81" selection-start-line="91" selection-start-column="81" selection-end-line="91" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/permission-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6633" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/permission-show.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1617">
+          <caret line="184" column="42" selection-start-line="157" selection-start-column="35" selection-end-line="184" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/java/com/mryi/ssm/controller/PermissionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/user-show.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="122" column="52" selection-start-line="122" selection-start-column="52" selection-end-line="128" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/role-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="123" column="51" selection-start-line="123" selection-start-column="51" selection-end-line="129" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/permission-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="125" column="51" selection-start-line="125" selection-start-column="51" selection-end-line="131" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/OrdersService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/Impl/OrdersServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_dao/src/main/java/com/mryi/ssm/dao/PermissionDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_dao/src/main/java/com/mryi/ssm/dao/ProductDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/java/com/mryi/ssm/controller/OrdersController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="55" column="83" selection-start-line="55" selection-start-column="83" selection-end-line="55" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_dao/src/main/java/com/mryi/ssm/dao/SysLogDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/orders-page-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5348">
+          <caret line="191" column="75" selection-start-line="191" selection-start-column="75" selection-end-line="193" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/syslog-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3220">
+          <caret line="115" column="18" selection-start-line="115" selection-start-column="18" selection-end-line="115" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/product-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13216">
+          <caret line="472" column="4" selection-start-line="472" selection-start-column="4" selection-end-line="483" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/java/com/mryi/ssm/controller/SysLogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_dao/src/main/java/com/mryi/ssm/dao/OrdersDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="55" column="41" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/user-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3444">
+          <caret line="123" column="51" selection-start-line="123" selection-start-column="51" selection-end-line="129" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/webapp/pages/orders-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12880">
+          <caret line="460" column="52" selection-start-line="460" selection-start-column="52" selection-end-line="460" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/SysLogService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_service/src/main/java/com/mryi/ssm/service/Impl/SysLogServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/java/com/mryi/ssm/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1148">
+          <caret line="50" column="2" selection-start-line="50" selection-start-column="2" selection-end-line="55" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mryi_ssm/mryi_ssm_web/src/main/java/com/mryi/ssm/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>mryi_ssm_web:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.36040217" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (mryi_ssm_web)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.36040217" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mryi_ssm_web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.43310133" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>servlet-api</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.43310133" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27833334" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+com\mryi\ssm\dao\PermissionDao.class
+com\mryi\ssm\dao\RoleDao.class
+com\mryi\ssm\dao\TravellerDao.class
+com\mryi\ssm\dao\UserDao.class
+com\mryi\ssm\dao\MembersDao.class
+com\mryi\ssm\dao\OrdersDao.class
+com\mryi\ssm\dao\ProductDao.class
